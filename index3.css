@@ -10,7 +10,7 @@ body {
 }
 #bg-image {
     background-image: url(photo.jpeg);
-    height: 950vh;
+    height: 960vh;
     background-attachment: fixed;
     position: absolute;
 }
